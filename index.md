@@ -25,14 +25,20 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 - **[May 2015 - Present]** Assistan Prof. at  Faculty of Computers and information Technology, Al-aqsa Uviversity
 - **[May 2004 - Apr 2015]** Lecturer at Computer Science Department, Al-Aqsa University
 
-
 ## News
 
 - **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
 - **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
 - **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
 - **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- 
+- **[Jul 2020]** Participation in Training Workshop [Research to Innovation lab R2I lab] organized by ...
+- **[Jun 2020]** Attended in a workshop online for [The publishing landscape in the Arab World](http://aaru.edu.jo/Lists/NewsandEvents/Disp_Form.aspx?ID=616) organized by [Elsevier](./assets/PDF/publishing-landscape-arab-world-certificate.pdf) and [Association of Arab Universities](http://aaru.edu.jo/en/english/Home.aspx)
 
+- **[May 2020]** Attended a workshop on strategies for obtaining funding for research projects. Sohag University-Egypt. 
+- **[Jan 2020]** Participation in a workshop on the Palestinian-Turkish joint appeal for research grants between the Supreme Council for Creativity and Excellence (HCIE) and the Turkish Technology and Scientific Research Council [(TUBITAK).](https://hcie.ps/?p=1805)
+- **[Dec 2019]** Attended workshop of quality of tertiary education and the labor market, [Al Fakhoora House](https://www.ps.undp.org/content/papp/en/home/projects/al-fakhoora-dynamic-futures-programme--df-.html)
+  
 ## Publications
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
