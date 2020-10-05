@@ -35,6 +35,38 @@ Elbaz a specialist in information security and Linux systems, He has experience 
   
 ## Publications
 
+- **S.O.S. Booklet for Global Young Scholars: Facing the Scientific and Ethical Challenges of the Modern Age**
+<br>
+Gjoneska, B., Camacho Toro, R., Simic, N., Solymosi, K., AbuDouleh, A., Chies Santos, A., Chaouch, M., **Elbaz, H.**, Enany, S., Giannarou, S., Gono-Bwalya, A., Haidu, D., Manzanares Chac´on, M. A., Reˇzek Jambrak, A.
+<br>
+Budapest: GYA/IAP Young Researchers Leadership Workshop in the Framework of the **World Science Forum 2019**
+  <br> 
+[[PDF]( https://globalyoungacademy.net/wp-content/uploads/2019/11/IAP-and-GYA-SOS-Booklet-for-Global-Young-Scholars-Gjoneska-et-al-2020.pdf)]
+
+- **Critical Cloud Computing Risks for Banking Organizations: Issues and Challenges**
+  <br>
+  A Elzamly, N Messabia, M Doheir, S Abu Naser, **HA Elbaz**
+  <br>
+Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
+  <br> 
+[[PDF](https://www.researchgate.net/publication/336368795_Critical_Cloud_Computing_Risks_for_Banking_Organizations_Issues_and_Challenges)]
+
+- **Analysis and Verification of a Key Agreement Protocol over Cloud Computing Using Scyther Tool**
+  <br>
+  **Elbaz, Hazem A.**, Mohammed H. Abd-elaziz, and Taymoor Nazmy
+  <br>
+  International Journal of Cloud Computing and Services Science **(IJ-CLOSER) 3.6 (2015).**
+  <br> 
+  [[PDF]( http://www.publishingindia.com/GetBrochure.aspx?query=UERGQnJvY2h1cmVzfC8yNTU4LnBkZnwvMjU1OC5wZGY=)]
+
+- **A Secure Electronic Student Record using Hierarchal Identity-based Authentication over University Cloud Storage**
+  <br>
+  **Elbaz, Hazem A.**, Mohammed H. Abd-elaziz, and Taymoor Nazmy
+  <br>
+  International Journal of Emerging Trends in Engineering and Development **Issue 4, Vol.6 (Oct. -Nov. 2014)**
+  <br> [[PDF](https://pdfs.semanticscholar.org/490c/dbb9c64fab4de52b29aa633fe8b5dd8a24b0.pdf?_ga=2.57126058.1044210318.1601921424-666306931.1601921424)]
+
+
 - **Trusting Identity Based Authentication on Hybrid Cloud Computing**
   <br>
   **Elbaz, Hazem A.**, Mohammed H. Abd-elaziz, and Taymoor Nazmy
@@ -42,23 +74,6 @@ Elbaz a specialist in information security and Linux systems, He has experience 
   Cloud Computing. Springer International Publishing, **2014. 179-188.**
   <br>
   [[PDF]( https://link.springer.com/chapter/10.1007/978-3-319-05506-0_17)]
-
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
 
 ## Selected Talks
