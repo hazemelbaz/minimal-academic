@@ -98,6 +98,8 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
 
 ## Services
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- Co-founder: [Palestine Young Academy [PYA]](https://pya.palast.ps)
+- Co-founder: [Shield CyberSecurity Solutions](https://shieldcs.com)
+- Information Security for E-Learning Coordinator at [Information Security for E-Learning Coordinator](https://www.facebook.com/groups/SpecialInterestGroupOnEduactaion/)
+- Conference Reviewers: [ICITB 2020](http://gu.edu.ps/en/Page.aspx?ID=44), and [PICICT 2017](http://fit.iugaza.edu.ps/Portals/115/PICICT2017/html/picict2017_contact_us.html).
+- Journal Reviewers: [ICITB](https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&journal_id=3545518&Network=no&lim=false&orderBy=ab_approval_date&orderDir=asc&strSelectedOption=5&fbclid=IwAR1HyEynmD8Lh6pWF4OWvOJfPINpTZdGgqu8dbrbfFY-KE7kqRYEBdWBf-U), and [POLLACK PERIODICA](https://submit.akademiai.com/pollack/index.php/pollack).
