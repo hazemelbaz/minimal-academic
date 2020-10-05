@@ -100,6 +100,6 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
 
 - Co-founder: [Palestine Young Academy [PYA]](https://pya.palast.ps)
 - Co-founder: [Shield CyberSecurity Solutions](https://shieldcs.com)
-- Information Security for E-Learning Coordinator at [Information Security for E-Learning Coordinator](https://www.facebook.com/groups/SpecialInterestGroupOnEduactaion/)
+- Information Security for E-Learning Coordinator at [خبراء من أجل التعليم- Experts For Education](https://www.facebook.com/groups/SpecialInterestGroupOnEduactaion/)
 - Conference Reviewers: [ICITB 2020](http://gu.edu.ps/en/Page.aspx?ID=44), and [PICICT 2017](http://fit.iugaza.edu.ps/Portals/115/PICICT2017/html/picict2017_contact_us.html).
 - Journal Reviewers: [ICITB](https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&journal_id=3545518&Network=no&lim=false&orderBy=ab_approval_date&orderDir=asc&strSelectedOption=5&fbclid=IwAR1HyEynmD8Lh6pWF4OWvOJfPINpTZdGgqu8dbrbfFY-KE7kqRYEBdWBf-U), and [POLLACK PERIODICA](https://submit.akademiai.com/pollack/index.php/pollack).
