@@ -35,13 +35,14 @@ Elbaz a specialist in information security and Linux systems, He has experience 
   
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Trusting Identity Based Authentication on Hybrid Cloud Computing**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Elbaz, Hazem A.**, Mohammed H. Abd-elaziz, and Taymoor Nazmy
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  Cloud Computing. Springer International Publishing, **2014. 179-188.**
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF]( https://link.springer.com/chapter/10.1007/978-3-319-05506-0_17)]
+
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
