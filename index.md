@@ -28,7 +28,7 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 ## Activties and News
 
 - **[Jul 2020]** Participation in  [Research to Innovation lab R2I lab](https://www.thenextsociety.co/research-innovation-lab) Training Workshop, organized by [ANIMA](https://anima.coop/en/) and [HCIE](http://hcie.ps/?lang=en).
-- **[Jun 2020]** Attended in a workshop online for [The publishing landscape in the Arab World](http://aaru.edu.jo/Lists/NewsandEvents/Disp_Form.aspx?ID=616), organized by [Elsevier](./assets/PDF/publishing-landscape-arab-world-certificate.pdf) and [Association of Arab Universities](http://aaru.edu.jo/en/english/Home.aspx)
+- **[Jun 2020]** Attended in a workshop online for [The publishing landscape in the Arab World](http://aaru.edu.jo/Lists/NewsandEvents/Disp_Form.aspx?ID=616), organized by [Elsevier](https://www.elsevier.com/en-xm) and [Association of Arab Universities](http://aaru.edu.jo/en/english/Home.aspx). [[PDF]](./assets/PDF/publishing-landscape-arab-world-certificate.pdf)
 - **[May 2020]** Attended a workshop on strategies for obtaining funding for research projects. Sohag University-Egypt. 
 - **[Jan 2020]** Participation in a workshop on the Palestinian-Turkish joint appeal for research grants between the Supreme Council for Creativity and Excellence (HCIE) and the Turkish Technology and Scientific Research Council [(TUBITAK).](https://hcie.ps/?p=1805)
 - **[Dec 2019]** Attended workshop of quality of tertiary education and the labor market, [Al Fakhoora House](https://www.ps.undp.org/content/papp/en/home/projects/al-fakhoora-dynamic-futures-programme--df-.html)
