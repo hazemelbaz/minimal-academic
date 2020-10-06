@@ -4,7 +4,7 @@ layout: homepage
 
 ## Biography
 
-Hazem Elbaz received his B.Sc. and M.Sc. in Computer Science from the IU Gaza, Palestine, in 2001. In 2004, he received his M.Sc. in Computer Engneering from the Near East University, Turkey. During his M.Sc., Elbaz worked with Fahreddin Sadikoglu Mammadov on analysis and developing Elliptic Curve Cryptography algorithm. Elbaz received his Ph.D. from Ain-Shams University of Computer and Information Systems, Egypt, in Cloud Computing Security with Excellent in 2015.
+Hazem Elbaz received his B.Sc. and M.Sc. in Computer Science from the IU Gaza, Palestine, in 2001. In 2004, he received his M.Sc. in Computer Engneering from the Near East University, Turkey. During his M.Sc., Elbaz worked with [Fahreddin Sadikoglu Mammadov](http://old.staff.neu.edu.tr/~fahri/bio.html) on analysis and developing Elliptic Curve Cryptography algorithm. Elbaz received his Ph.D. from Ain-Shams University of Computer and Information Systems, Egypt, in Cloud Computing Security with Excellent in 2015.
 
 He is currently an Assistant Professor in the Networks and Mobiles Department at Faculty of Computers and Information Technology, Al-Aqsa University, Gaza, Palestine. He is a researcher. His research interests include Cloud Computing Security, Network Security, Information Security.
 
