@@ -98,6 +98,7 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
 
 ## Services
 
+- Member of Palestinian Steering Committee for [Horizon Europe](https://ec.europa.eu/info/horizon-europe-next-research-and-innovation-framework-programme_en).
 - Co-founder: [Palestine Young Academy [PYA]](https://pya.palast.ps)
 - Co-founder: [Shield CyberSecurity Solutions](https://shieldcs.com)
 - Information Security for E-Learning Coordinator at [خبراء من أجل التعليم- Experts For Education](https://www.facebook.com/groups/SpecialInterestGroupOnEduactaion/)
