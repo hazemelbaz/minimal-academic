@@ -27,6 +27,7 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 
 ## Activties and News
 
+- **[Oct 2020]** Attended [The 5th National Forum “Innovation and The Pandemic”](https://www.fnf2020.ps/index.php?lang=en&fbclid=IwAR3grftITQRu5a9bIGeRQMGsrGQSweEm_JKwA-_T7ocOD_XKisnLOwEMVQY) Organized by the Palestinian Higher Council for Innovation and Excellence [(HCIE)](https://hcie.ps/?page_id=583&lang=en).
 - **[Jul 2020]** Participation in  [Research to Innovation lab R2I lab](https://www.thenextsociety.co/research-innovation-lab) Training Workshop, organized by [ANIMA](https://anima.coop/en/) and [HCIE](http://hcie.ps/?lang=en).
 - **[Jun 2020]** Attended in a workshop online for [The publishing landscape in the Arab World](http://aaru.edu.jo/Lists/NewsandEvents/Disp_Form.aspx?ID=616), organized by [Elsevier](https://www.elsevier.com/en-xm) and [Association of Arab Universities](http://aaru.edu.jo/en/english/Home.aspx). [[PDF]](./assets/PDF/publishing-landscape-arab-world-certificate.pdf)
 - **[May 2020]** Attended a workshop on strategies for obtaining funding for research projects. Sohag University-Egypt. 
