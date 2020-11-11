@@ -4,7 +4,7 @@ layout: homepage
 
 ## Biography
 
-Hazem Elbaz received his B.Sc. and M.Sc. in Computer Science from the IU Gaza, Palestine, in 2001. In 2004, he received his M.Sc. in Computer Engneering from the Near East University, Turkey. During his M.Sc., Elbaz worked with [Fahreddin Sadikoglu Mammadov](http://old.staff.neu.edu.tr/~fahri/bio.html) on analysis and developing Elliptic Curve Cryptography algorithm. Elbaz received his Ph.D. from Ain-Shams University of Computer and Information Systems, Egypt, in Cloud Computing Security with Excellent in 2015.
+Hazem Elbaz received his B.Sc. in Computer Science from the IU Gaza, Palestine, in 2001. In 2004, he received his M.Sc. in Computer Engneering from the Near East University, Turkey. During his M.Sc., Elbaz worked with [Fahreddin Sadikoglu Mammadov](http://old.staff.neu.edu.tr/~fahri/bio.html) on analysis and developing Elliptic Curve Cryptography algorithm. Elbaz received his Ph.D. from Ain-Shams University of Computer and Information Systems, Egypt, in Cloud Computing Security with Excellent in 2015.
 
 He is currently an Assistant Professor in the [Networks and Mobiles Department](https://www.alaqsa.edu.ps/ar/page/4711/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D9%83%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA-%D9%88%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA--%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D9%86%D9%82%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%B3%D9%8A%D8%A9) at Faculty of Computers and Information Technology, Al-Aqsa University, Gaza, Palestine. He is a researcher. His research interests include Cloud Computing Security, Network Security, Information Security.
 
@@ -99,9 +99,11 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
 
 ## Services
 
+- Member of Program Committee in International Conference on Promising Electronic Technologies [ICPET 2020](https://icpet.net)
+- Co-founder: Palestinian Communications and Informatics Society [PCIS](http://palast.ps/en/what-we-do/science-societies/ICT)
 - Member of Palestinian Steering Committee for [Horizon Europe](https://ec.europa.eu/info/horizon-europe-next-research-and-innovation-framework-programme_en).
 - Co-founder: [Palestine Young Academy [PYA]](https://pya.palast.ps)
 - Co-founder: [Shield CyberSecurity Solutions](https://shieldcs.com)
 - Information Security for E-Learning Coordinator at [خبراء من أجل التعليم- Experts For Education](https://www.facebook.com/groups/SpecialInterestGroupOnEduactaion/)
-- Conference Reviewers: [ICITB 2020](http://gu.edu.ps/en/Page.aspx?ID=44), and [PICICT 2017](http://fit.iugaza.edu.ps/Portals/115/PICICT2017/html/picict2017_contact_us.html).
+- Conference Reviewers: [ICPET 2020](https://icpet.net), [ICITB 2020](http://gu.edu.ps/en/Page.aspx?ID=44), and [PICICT 2017](http://fit.iugaza.edu.ps/Portals/115/PICICT2017/html/picict2017_contact_us.html).
 - Journal Reviewers: [ICITB](https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&journal_id=3545518&Network=no&lim=false&orderBy=ab_approval_date&orderDir=asc&strSelectedOption=5&fbclid=IwAR1HyEynmD8Lh6pWF4OWvOJfPINpTZdGgqu8dbrbfFY-KE7kqRYEBdWBf-U), and [POLLACK PERIODICA](https://submit.akademiai.com/pollack/index.php/pollack).
