@@ -25,7 +25,7 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 - **[May 2015 - Present]** Assistan Prof. at  Faculty of Computers and information Technology, Al-aqsa Uviversity
 - **[May 2004 - Apr 2015]** Lecturer at Computer Science Department, Al-Aqsa University
 
-## Activties and News
+## Activities and News
 
 - **[Oct 2020]** Attended [The 5th National Forum “Innovation and The Pandemic”](https://www.fnf2020.ps/index.php?lang=en&fbclid=IwAR3grftITQRu5a9bIGeRQMGsrGQSweEm_JKwA-_T7ocOD_XKisnLOwEMVQY) Organized by the Palestinian Higher Council for Innovation and Excellence [(HCIE)](https://hcie.ps/?page_id=583&lang=en).
 - **[Jul 2020]** Participation in  [Research to Innovation lab R2I lab](https://www.thenextsociety.co/research-innovation-lab) Training Workshop, organized by [ANIMA](https://anima.coop/en/) and [HCIE](http://hcie.ps/?lang=en).
