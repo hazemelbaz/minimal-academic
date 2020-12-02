@@ -27,6 +27,7 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 
 ## Activities and News
 
+- **[Nov 2020]** Chief Guest of Honor at the Seventh International Scientific Forum (11-15 November). [(PDF)](./assets/PDF/7th-Scientific-International-Forum-2020.pdf)
 - **[Oct 2020]** Attended [The 5th National Forum “Innovation and The Pandemic”](https://www.fnf2020.ps/index.php?lang=en&fbclid=IwAR3grftITQRu5a9bIGeRQMGsrGQSweEm_JKwA-_T7ocOD_XKisnLOwEMVQY) Organized by the Palestinian Higher Council for Innovation and Excellence [(HCIE)](https://hcie.ps/?page_id=583&lang=en).
 - **[Sep 2020]** Participated on [Online Young Academies Meeting 2020](https://globalyoungacademy.net/first-ever-online-worldwide-young-academies-meeting/) Organized by the Global Young Academy [(GYA)](https://globalyoungacademy.net/gya-in-brief/)
 - **[Jul 2020]** Participation in  [Research to Innovation lab R2I lab](https://www.thenextsociety.co/research-innovation-lab) Training Workshop, organized by [ANIMA](https://anima.coop/en/) and [HCIE](http://hcie.ps/?lang=en).
@@ -100,9 +101,9 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
 
 ## Services
 
-- Member of Program Committee in International Conference on Promising Electronic Technologies [ICPET 2020](http://icpet.net/committees/)
+- Committee Member in International Conference on Promising Electronic Technologies [ICPET 2020](http://icpet.net/committees/)
 - Co-founder: Palestinian Communications and Informatics Society [PCIS](http://palast.ps/en/what-we-do/science-societies/ICT)
-- Member of Scientific committee in The 1st International Conference on Information Technology and Business [ICITB 2020](http://icitb.gu.edu.ps)
+- Scientific committee Member in The 1st International Conference on Information Technology and Business [ICITB 2020](http://icitb.gu.edu.ps)
 - Member of Palestinian Steering Committee for [Horizon Europe](https://ec.europa.eu/info/horizon-europe-next-research-and-innovation-framework-programme_en).
 - Co-founder: [Palestine Young Academy [PYA]](https://pya.palast.ps)
 - Co-founder: [Shield CyberSecurity Solutions](https://shieldcs.com)
