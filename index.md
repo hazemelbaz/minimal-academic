@@ -100,7 +100,7 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
 
 ## Services
 
-- Member of Program Committee in International Conference on Promising Electronic Technologies [ICPET 2020](https://icpet.net)
+- Member of Program Committee in International Conference on Promising Electronic Technologies [ICPET 2020](http://icpet.net/committees/)
 - Co-founder: Palestinian Communications and Informatics Society [PCIS](http://palast.ps/en/what-we-do/science-societies/ICT)
 - Member of Scientific committee in The 1st International Conference on Information Technology and Business [ICITB 2020](http://icitb.gu.edu.ps)
 - Member of Palestinian Steering Committee for [Horizon Europe](https://ec.europa.eu/info/horizon-europe-next-research-and-innovation-framework-programme_en).
