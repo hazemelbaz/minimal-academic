@@ -25,6 +25,18 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 - **[May 2015 - Present]** Assistan Prof. at  Faculty of Computers and information Technology, Al-aqsa Uviversity
 - **[May 2004 - Apr 2015]** Lecturer at Computer Science Department, Al-Aqsa University
 
+## Services
+
+- Committee Member in International Conference on Promising Electronic Technologies [ICPET 2020](http://icpet.net/committees/)
+- Co-founder: Palestinian Communications and Informatics Society [PCIS](http://palast.ps/en/what-we-do/science-societies/ICT)
+- Scientific committee Member in The 1st International Conference on Information Technology and Business [ICITB 2020](http://icitb.gu.edu.ps)
+- Member of Palestinian Steering Committee for [Horizon Europe](https://ec.europa.eu/info/horizon-europe-next-research-and-innovation-framework-programme_en).
+- Co-founder: [Palestine Young Academy [PYA]](https://pya.palast.ps)
+- Co-founder: [Shield CyberSecurity Solutions](https://shieldcs.com)
+- Information Security for E-Learning Coordinator at [خبراء من أجل التعليم- Experts For Education](https://www.facebook.com/groups/SpecialInterestGroupOnEduactaion/)
+- Reviewer in conferences: [ICPET 2020](https://icpet.net), [ICITB 2020](http://gu.edu.ps/en/Page.aspx?ID=44), and [PICICT 2017](http://fit.iugaza.edu.ps/Portals/115/PICICT2017/html/picict2017_contact_us.html).
+- Reviewer in journals: [ICITB](https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&journal_id=3545518&Network=no&lim=false&orderBy=ab_approval_date&orderDir=asc&strSelectedOption=5&fbclid=IwAR1HyEynmD8Lh6pWF4OWvOJfPINpTZdGgqu8dbrbfFY-KE7kqRYEBdWBf-U), and [POLLACK PERIODICA](https://submit.akademiai.com/pollack/index.php/pollack).
+
 ## Activities and News
 
 - **[Nov 2020]** Chief Guest of Honor at the Seventh International Scientific Forum (11-15 November). [(PDF)](./assets/PDF/7th-Scientific-International-Forum-2020.pdf)
@@ -98,15 +110,3 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
   School of Computing, National University of Singapore
   <br>
   Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
-
-## Services
-
-- Committee Member in International Conference on Promising Electronic Technologies [ICPET 2020](http://icpet.net/committees/)
-- Co-founder: Palestinian Communications and Informatics Society [PCIS](http://palast.ps/en/what-we-do/science-societies/ICT)
-- Scientific committee Member in The 1st International Conference on Information Technology and Business [ICITB 2020](http://icitb.gu.edu.ps)
-- Member of Palestinian Steering Committee for [Horizon Europe](https://ec.europa.eu/info/horizon-europe-next-research-and-innovation-framework-programme_en).
-- Co-founder: [Palestine Young Academy [PYA]](https://pya.palast.ps)
-- Co-founder: [Shield CyberSecurity Solutions](https://shieldcs.com)
-- Information Security for E-Learning Coordinator at [خبراء من أجل التعليم- Experts For Education](https://www.facebook.com/groups/SpecialInterestGroupOnEduactaion/)
-- Reviewer in conferences: [ICPET 2020](https://icpet.net), [ICITB 2020](http://gu.edu.ps/en/Page.aspx?ID=44), and [PICICT 2017](http://fit.iugaza.edu.ps/Portals/115/PICICT2017/html/picict2017_contact_us.html).
-- Reviewer in journals: [ICITB](https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&journal_id=3545518&Network=no&lim=false&orderBy=ab_approval_date&orderDir=asc&strSelectedOption=5&fbclid=IwAR1HyEynmD8Lh6pWF4OWvOJfPINpTZdGgqu8dbrbfFY-KE7kqRYEBdWBf-U), and [POLLACK PERIODICA](https://submit.akademiai.com/pollack/index.php/pollack).
