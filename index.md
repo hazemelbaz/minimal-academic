@@ -39,7 +39,7 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 
 ## Activities and News
 
-- **[Dec 2020]** participated in the online training ‘Facilitating Online Meetings and Workshops’ on 5 December 2020. Organized by The Arab-German Young Academy of Sciences and Humanities (AGYA).
+- **[Dec 2020]** Participated in the online training ‘Facilitating Online Meetings and Workshops’ on 5 December 2020. Organized by The Arab-German Young Academy of Sciences and Humanities (AGYA).
 - **[Nov 2020]** Chief Guest of Honor at the Seventh International Scientific Forum (11-15 November). [(PDF)](./assets/PDF/7th-Scientific-International-Forum-2020.pdf)
 - **[Oct 2020]** Attended [The 5th National Forum “Innovation and The Pandemic”](https://www.fnf2020.ps/index.php?lang=en&fbclid=IwAR3grftITQRu5a9bIGeRQMGsrGQSweEm_JKwA-_T7ocOD_XKisnLOwEMVQY) Organized by the Palestinian Higher Council for Innovation and Excellence [(HCIE)](https://hcie.ps/?page_id=583&lang=en).
 - **[Sep 2020]** Participated on [Online Young Academies Meeting 2020](https://globalyoungacademy.net/first-ever-online-worldwide-young-academies-meeting/) Organized by the Global Young Academy [(GYA)](https://globalyoungacademy.net/gya-in-brief/)
