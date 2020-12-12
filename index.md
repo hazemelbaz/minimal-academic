@@ -27,7 +27,10 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 
 ## Services
 
-- Committee Member in International Conference on Promising Electronic Technologies [ICPET 2020](http://icpet.net/committees/)
+- Program Committee Member in THE INTERNATIONAL VIRTUAL CONFERENCE ON DIGITAL LEARNING AND TEACHING DURING CRISIS [ IVCDLTC2021 ](http://eesig.org/conf/index.html)
+المؤتمر الدولي الافتراضي للتعلم والتعليم الرقمي في الأزمات 
+JANUARY 24-25, 2021
+- Program Committee Member in International Conference on Promising Electronic Technologies [ICPET 2020](http://icpet.net/committees/)
 - Co-founder: Palestinian Communications and Informatics Society [PCIS](http://palast.ps/en/what-we-do/science-societies/ICT)
 - Scientific committee Member in The 1st International Conference on Information Technology and Business [ICITB 2020](http://icitb.gu.edu.ps)
 - Member of Palestinian Steering Committee for [Horizon Europe](https://ec.europa.eu/info/horizon-europe-next-research-and-innovation-framework-programme_en).
