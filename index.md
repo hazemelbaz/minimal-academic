@@ -94,20 +94,38 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
 
 ## Selected Talks
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **“Cyber Attacks and its impact on Palestinian institutions” Symposium**
   <br>
-  NeurIPS Official Meetups
+  The Academy of Management and Politics for Postgraduate Studies- Gaza
   <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
+  [March 6 2018]
 
-- **Multi-Class Incremental Learning**
+- **"Information Security, Threats and Dangers" workshop**
   <br>
-  School of Computer Science and Engineering, Nanyang Technological University
+  The Islamic University - Gaza
   <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
+  [March 13 2018]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **"Information Security - Protection and Awareness" workshop**
   <br>
-  School of Computing, National University of Singapore
+  Ministry of Communications and Information Technology- Gaza
   <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
+  [April 4 2017]
+
+- **"Standards and tools for protection of information security" workshop**
+  <br>
+  Ministry of Communications and Information Technology- Gaza
+  <br>
+  [April 5 2017]
+
+- **"Information Security and Safety Procedures" workshop**
+  <br>
+  University College of Science and Technology in Khan Yunis
+  <br>
+  [October 30 2017]
+
+- **"The role of information technology in drawing the political map of the region" on the subject of the US-Russian electronic war and its political impact in the region. Symposium**
+  <br>
+  The Academy of Management and Politics for Postgraduate Studies- Gaza
+  <br>
+  [October 23 2016]
