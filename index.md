@@ -127,3 +127,36 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
   The Academy of Management and Politics for Postgraduate Studies- Gaza
   <br>
   [October 23 2016]
+
+## Training Courses   
+- **Entrepreneurship in IT sector**.
+  <br>
+  FIS, Slovenia, 2018.
+  <br>
+- **Incubation and acceleration processes and systems**.
+  <br>
+  HTWK, Germany, 2018.
+  <br>
+- **Curricula development, the concept of IT economy, incubation, and entrepreneurship**.
+  <br> 
+  HTWK, Germany, 2017.
+  <br>
+- **TOT Freelancing Program , Gaza, Palestine, 2018. The entrepreneurship in IT, Incubation, and acceleration processes**.
+  <br>
+  UNICAL, ITALY, 2017.
+  <br>
+- **Project Management Professional PMP**.
+  <br>
+  Gaza, Palestine, 2016.
+  <br> 
+
+## Projects
+- **BITPAL Erasmus+ <br>[Oct 2016 – Nov 2019].**<br> 
+  - The project (BITPAL) aims to adopt innovative orientation in teaching that enhance the thinking of the undergraduate students.
+  The target of BITPAL is to develop the curricula of IT programs in Palestinian academic sector for adopting new innovative teaching methodologies developed during the project. This will help IT students to become more reliable and productive, and will improve their ability for learning-to-learn. Consequently, IT students will be able to start their own businesses and open several opportunities for them in an early stage before the graduation and in their careers after graduation.
+
+[See project BITPAL Erasmus+.](https://www.linkedin.com/company/bitpal/)
+- **TOT Freelancing Program - South Tech Hub <br>[Aug 2018 – Sep 2018].**<br> 
+  - The Freelance Academy is comprised of multiple tracks for different cohorts of participants. 10-week freelancing mentorship program: This track is for young people skilled in areas such as web development, graphic design, translation, social media, mobile development and front-end development to become successful online freelancers through intensive mentorship sessions in topics such as building a competitive online freelancing profile, social media marketing, and professional English. During the 10 weeks, participants gather for networking and experience-sharing in addition to workshops on trending topics in the field of online freelancing. 
+
+[See project TOT Freelancing Program - South Tech Hub.](https://gazaskygeeks.com/freelance/)
