@@ -27,6 +27,7 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 
 ## Services
 
+- Co-founder: [The Palestinian Communications and Informatics Society (PCIS)](http://palast.ps/en/what-we-do/science-societies/ICT)
 - Program Committee Member in THE INTERNATIONAL VIRTUAL CONFERENCE ON DIGITAL LEARNING AND TEACHING DURING CRISIS [ IVCDLTC2021 ](http://eesig.org/conf/index.html)
 المؤتمر الدولي الافتراضي للتعلم والتعليم الرقمي في الأزمات 
 JANUARY 24-25, 2021
