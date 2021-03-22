@@ -43,6 +43,7 @@ JANUARY 24-25, 2021
 
 ## Activities and News
 
+- **[Jan 2021]** Attended [The Arab Impact Factor: Concepts and Implementation Mechanisms](/assets/img/ArabImpactFactor.jpg) workshop. Organized by [Committee for Accreditation and Quality Assurance of Refereed Scientific Journals](https://www.facebook.com/%D9%84%D8%AC%D9%86%D8%A9-%D8%A5%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D9%88%D8%B6%D9%85%D8%A7%D9%86-%D8%AC%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-116126470298634/) and [The Arab Impact Factor.](https://www.arabimpactfactor.com/pages/aboutus.php)
 - **[Dec 2020]** Participated in the online training ‘Facilitating Online Meetings and Workshops’ on 5 December 2020. Organized by The Arab-German Young Academy of Sciences and Humanities (AGYA). [(PDF)](./assets/PDF/2020-AGYA-Certificate.pdf)
 - **[Nov 2020]** Chief Guest of Honor at the Seventh International Scientific Forum (11-15 November). [(PDF)](./assets/PDF/7th-Scientific-International-Forum-2020.pdf)
 - **[Oct 2020]** Attended [The 5th National Forum “Innovation and The Pandemic”](https://www.fnf2020.ps/index.php?lang=en&fbclid=IwAR3grftITQRu5a9bIGeRQMGsrGQSweEm_JKwA-_T7ocOD_XKisnLOwEMVQY) Organized by the Palestinian Higher Council for Innovation and Excellence [(HCIE)](https://hcie.ps/?page_id=583&lang=en).
