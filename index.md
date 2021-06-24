@@ -135,7 +135,6 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
 - **Writing Grant Proposals for Young Palestinian Researchers ([GRYPS](http://gryps.palast.ps/about/))**
   <br>
   Palast, Ramallah, Palestine, 2021.
-
   This course is supported by the [German Academic Exchange Service (DAAD)](https://www.daad-eastjerusalem.org/en/), the [DIES ProGRANT](https://portal.uni-koeln.de/en/international/im-fokus/dies-progrant) Coordination Center at the [University of Cologne](https://uni-koeln.de/) and local partners.
   <br>
 - **Entrepreneurship in IT sector**.
