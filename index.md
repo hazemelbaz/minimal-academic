@@ -27,6 +27,7 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 
 ## Services
 
+- Organizing Committee Member in IThird Palestinian International Conference on Information and Communication Technology [(PICICT 2021)](http://picict.ps)
 - Co-founder: [The Palestinian Communications and Informatics Society (PCIS)](http://palast.ps/en/what-we-do/science-societies/ICT)
 - Program Committee Member in THE INTERNATIONAL VIRTUAL CONFERENCE ON DIGITAL LEARNING AND TEACHING DURING CRISIS [ IVCDLTC2021 ](http://eesig.org/conf/index.html)
 المؤتمر الدولي الافتراضي للتعلم والتعليم الرقمي في الأزمات 
@@ -37,7 +38,7 @@ JANUARY 24-25, 2021
 - Co-founder: [Palestine Young Academy [PYA]](https://pya.palast.ps)
 - Co-founder: [Shield CyberSecurity Solutions](https://shieldcs.com)
 - Information Security for E-Learning Coordinator at [خبراء من أجل التعليم- Experts For Education](https://www.facebook.com/groups/SpecialInterestGroupOnEduactaion/)
-- Reviewer in conferences: [ICPET 2020](https://icpet.net), [ICITB 2020](http://gu.edu.ps/en/Page.aspx?ID=44), and [PICICT 2017](http://fit.iugaza.edu.ps/Portals/115/PICICT2017/html/picict2017_contact_us.html).
+- Reviewer in conferences: [PICICT 2021](http://www.picict.ps/#content-inner-12),[ICPET 2020](https://icpet.net), [ICITB 2020](http://gu.edu.ps/en/Page.aspx?ID=44), and [PICICT 2017](http://fit.iugaza.edu.ps/Portals/115/PICICT2017/html/picict2017_contact_us.html).
 - Reviewer in journals: [ICITB](https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&journal_id=3545518&Network=no&lim=false&orderBy=ab_approval_date&orderDir=asc&strSelectedOption=5&fbclid=IwAR1HyEynmD8Lh6pWF4OWvOJfPINpTZdGgqu8dbrbfFY-KE7kqRYEBdWBf-U), and [POLLACK PERIODICA](https://submit.akademiai.com/pollack/index.php/pollack).
 
 ## Activities and News
