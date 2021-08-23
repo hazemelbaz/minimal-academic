@@ -133,7 +133,7 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
   [October 23 2016]
 
 ## Training Courses   
-- **Writing Grant Proposals for Young Palestinian Researchers ([GRYPS](http://gryps.palast.ps/about/))  Certification [PDF](/assets/PDF/202108161456-1.pdf).**
+- **Writing Grant Proposals for Young Palestinian Researchers ([GRYPS](http://gryps.palast.ps/about/)). [PDF](/assets/PDF/202108161456-1.pdf)**
   <br>
   Palast, Ramallah, Palestine, 2021.
   <br>
