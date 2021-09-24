@@ -27,7 +27,7 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 
 ## Services
 
-- Organizing Committee Member in Third Palestinian International Conference on Information and Communication Technology [(PICICT 2021)](http://picict.ps)
+- Organizing Committee Member in Third Palestinian International Conference on Information and Communication Technology [(PICICT 2021)](http://picict.ps) [PDF](//assets/PDF/picict-program-2021.pdf)
 - Co-founder: [The Palestinian Communications and Informatics Society (PCIS)](http://palast.ps/en/what-we-do/science-societies/ICT)
 - Program Committee Member in THE INTERNATIONAL VIRTUAL CONFERENCE ON DIGITAL LEARNING AND TEACHING DURING CRISIS [ IVCDLTC2021 ](http://eesig.org/conf/index.html)
 المؤتمر الدولي الافتراضي للتعلم والتعليم الرقمي في الأزمات 
