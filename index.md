@@ -43,6 +43,7 @@ JANUARY 24-25, 2021
 
 ## Activities and News
 
+- **[Sep 2021]** Chair of Session 6: Security and Soft Engineering at Third Palestinian International Conference on Information and Communication Technology [(PICICT 2021)](http://picict.ps) [PDF](//assets/PDF/picict-program-2021.pdf)
 - **[Apr 2021]** Participated as [Rapporteur of the 3rd session](/assets/img/02.png) of The [Palestinain Ecducational Symposium on: "Prespective Towards Sustainability of E-learning in Palestine"](./assets/img/01.png) organized by [Palestinian Ministry of Education.](http://www.moehe.gov.ps/)[ (PDF)](./assets/PDF/The-Palestinain-Ecducational-Symposium-April-2021.pdf)
 - **[Mar 2021]** Participated in [YSN-ASM INTERNATIONAL SCIENTIFIC VIRTUAL CONFERENCE (ISVC) 2021](https://ysn-asm.org.my/web/isvc2021/) organized by [Academy of Sciences Malaysia](https://www.akademisains.gov.my/)[(PDF)](./assets/PDF/E-certs-ISVC-Participants-50.pdf)
 - **[Jan 2021]** Attended [The Arab Impact Fpts and Implementation Mechanisms](/assets/img/ArabImpactFactor.jpg) workshop. Organized by [Committee for Accreditation and Quality Assurance of Refereed Scientific Journals](https://www.facebook.com/%D9%84%D8%AC%D9%86%D8%A9-%D8%A5%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D9%88%D8%B6%D9%85%D8%A7%D9%86-%D8%AC%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-116126470298634/) and [The Arab Impact Factor.](https://www.arabimpactfactor.com/pages/aboutus.php)
