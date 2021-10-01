@@ -43,7 +43,7 @@ JANUARY 24-25, 2021
 
 ## Activities and News
 
-- **[Sep 2021]** Participated on the [2021 Online Young Academics Meeting](https://globalyoungacademy.net/events/2021-online-young-academies-meeting/). Organized by [GYA](https://globalyoungacademy.net) (Global Young Academics).
+- **[Sep 2021]** Participated on the [2021 Online Young Academics Meeting](https://globalyoungacademy.net/events/2021-online-young-academies-meeting/). Organized by [GYA](https://globalyoungacademy.net) (Global Young Academy).
 - **[Sep 2021]** Participated as Chair of Session 6: Security and Soft Engineering at Third Palestinian International Conference on Information and Communication Technology [(PICICT 2021)](http://picict.ps) [PDF](./assets/PDF/picict-program-2021.pdf)
 - **[Apr 2021]** Participated as [Rapporteur of the 3rd session](/assets/img/02.png) of The [Palestinain Ecducational Symposium on: "Prespective Towards Sustainability of E-learning in Palestine"](./assets/img/01.png) organized by [Palestinian Ministry of Education.](http://www.moehe.gov.ps/)[ (PDF)](./assets/PDF/The-Palestinain-Ecducational-Symposium-April-2021.pdf)
 - **[Mar 2021]** Participated in [YSN-ASM INTERNATIONAL SCIENTIFIC VIRTUAL CONFERENCE (ISVC) 2021](https://ysn-asm.org.my/web/isvc2021/) organized by [Academy of Sciences Malaysia](https://www.akademisains.gov.my/)[(PDF)](./assets/PDF/E-certs-ISVC-Participants-50.pdf)
