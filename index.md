@@ -135,6 +135,10 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
   [October 23 2016]
 
 ## Training Courses   
+- **Introductory seminars by publishing in international indexing rules. [PDF](//assets/PDF/1041.pdf)**
+  <br>
+  This traning is supported by [International Association of Scientific Journals Published in Arabic](https://arabicjournal.org).
+  <br>
 - **Writing Grant Proposals for Young Palestinian Researchers ([GRYPS](http://gryps.palast.ps/about/)). [[PDF]](/assets/PDF/202108161456-1.pdf)**
   <br>
   Palast, Ramallah, Palestine, 2021.
