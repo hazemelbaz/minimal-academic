@@ -137,7 +137,7 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
   [October 23 2016]
 
 ## Training Courses   
-- **Introductory seminars by publishing in international indexing rules. [PDF](/assets/PDF/1041.pdf)**
+- **Introductory seminars by publishing in international indexing rules.[PDF](/assets/PDF/1041.pdf)**
   <br>
   Online Training, Dec 2021.
   <br>
