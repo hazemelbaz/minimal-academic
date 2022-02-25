@@ -44,6 +44,7 @@ JANUARY 24-25, 2021
 
 ## Activities and News
 
+- **[Feb 2022]** Speaker at [The Indian National Science Day-2022 meeting and the Launching of the Palestinian Research Hub](/assets/img/invitation%20The%20indian%20National%20Day%202022.jpeg), as [Representer of PYA](/assets/img/Indian%20National%20Science%20Day%202022-%20Agenda.jpeg). Under the patronage of His Excellency, the President of Palestine Academy for Science and Technology Prof. Dr. Marwan Awartani. Organized by [PALAST](http://palast.ps/en/events/indian-national-science-day-2022-conference-and-launch-palestinian-research-hub-initiative)
 - **[Oct 2021]** Participated on the Workshop: [Classification of Palestinian Universities in International and Arab Rankings - Reality and Challenges.](http://www.aqac.mohe.gov.ps/news?p=articles&news=5681&title=-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%B3%D8%A8%D9%84-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D8%A7%D9%81%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9.aspx) Organized By [National Authority for Accreditation and Quality](http://www.aqac.mohe.gov.ps/)
 - **[Sep 2021]** Participated on the [2021 Online Young Academics Meeting](https://globalyoungacademy.net/largest-ever-online-meeting-of-young-academies/). Organized by [GYA](https://globalyoungacademy.net) (Global Young Academy).
 - **[Sep 2021]** Participated as Chair of Session 6: Security and Soft Engineering at Third Palestinian International Conference on Information and Communication Technology [(PICICT 2021)](http://picict.ps) [PDF](./assets/PDF/picict-program-2021.pdf)
@@ -104,6 +105,12 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
 
 
 ## Selected Talks
+
+- **"The National Science Day-2022 meeting and the Launching of the Palestinian Research Hub"**
+  <br>
+  Under the patronage of His Excellency, the President of Palestine Academy for Science and Technology Prof. Dr. Marwan Awartani. Organized by PALAST.
+  <br>
+  [February 26, 2022] Ramallah
 
 - **“Cyber Attacks and its impact on Palestinian institutions” Symposium**
   <br>
