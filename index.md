@@ -178,6 +178,10 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
   <br> 
 
 ## Projects
+- **EDU4All Erasmus+ <br>[].**<br>
+  - Edu4ALL aims at supporting the inclusion of students with disabilities in HE by establishing an “Inclusive Education Unit” that follows the international standards with the objective of equality in Education, Activities, and Services. We target students who are blind or low vision, deaf or hard of hearing, or those who have motor disability.
+
+[See project EDU4All Erasmus+.](https://www.ptuk.edu.ps/projects/edu4all/)
 - **BITPAL Erasmus+ <br>[Oct 2016 – Nov 2019].**<br> 
   - The project (BITPAL) aims to adopt innovative orientation in teaching that enhance the thinking of the undergraduate students.
   The target of BITPAL is to develop the curricula of IT programs in Palestinian academic sector for adopting new innovative teaching methodologies developed during the project. This will help IT students to become more reliable and productive, and will improve their ability for learning-to-learn. Consequently, IT students will be able to start their own businesses and open several opportunities for them in an early stage before the graduation and in their careers after graduation.
