@@ -178,7 +178,7 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
   <br> 
 
 ## Projects
-- **EDU4All Erasmus+ <br>[].**<br>
+- **EDU4All Erasmus+ <br>[Jan 2021 - present].**<br>
   - Edu4ALL aims at supporting the inclusion of students with disabilities in HE by establishing an “Inclusive Education Unit” that follows the international standards with the objective of equality in Education, Activities, and Services. We target students who are blind or low vision, deaf or hard of hearing, or those who have motor disability.
 
 [See project EDU4All Erasmus+.](https://www.ptuk.edu.ps/projects/edu4all/)
