@@ -170,9 +170,7 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
   Global Young Academy · Seasonal Sep 2019 · 1 mo,Budapest, Hungary.[Press](https://palast.ps/en/news/al-aqsa-university-represents-academy-world-science-forum-and-iap-global-young-academy)
   <br>
   The Digital Age is already upon us and we require a lot more tangible action to appropriately position ourselves for the future. We all have a role to play when it comes to ensuring responsible education. This much is true. It is also important that our learning environments always remain supportive, personalised, and fit-for-purpose, in order to maintain their overall relevance and value.
-
   This session entailed a series of insightful talks and presentations, an engaging workshop, and a networking session, at the end we documented and published a booklet [[PDF]( https://globalyoungacademy.net/wp-content/uploads/2019/11/IAP-and-GYA-SOS-Booklet-for-Global-Young-Scholars-Gjoneska-et-al-2020.pdf)] about our experience. 
-
   It was the first time for me to be part of "just met" group, we all started working together to share our knowledge using our's booklet. I left with a total new mindset about group working and leadership.
 
 - **Entrepreneurship in IT sector**.
