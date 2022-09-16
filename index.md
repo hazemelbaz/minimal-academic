@@ -65,7 +65,7 @@ JANUARY 24-25, 2021
 
 - **Control Methods for Mitigating Critical Cloud Computing Issues in Banking Organizations: A review**
 - <br>
-  Abdelrafe Elzamly, Nabil Messabia, **Hazem ELbaz**, Yunwei Yang, Abdul Samad Shibghatullah
+  A Elzamly, N Messabia, **H ELbaz**, Y Yang, A Shibghatullah
 - <br>
   The Journal of Natural Sciences- Alaqsa university, 2022
   <br>
