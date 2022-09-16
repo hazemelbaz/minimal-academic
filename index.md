@@ -69,7 +69,7 @@ JANUARY 24-25, 2021
   <br>
 Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 Jan.2022 ISSN 2070-3155
   <br> 
-[[PDF] (https://journals.alaqsa.edu.ps/index.php/sciences/article/download/118/27)]
+[[PDF](https://journals.alaqsa.edu.ps/index.php/sciences/article/download/118/27)]
 
 - **S.O.S. Booklet for Global Young Scholars: Facing the Scientific and Ethical Challenges of the Modern Age**
 <br>
