@@ -64,12 +64,13 @@ JANUARY 24-25, 2021
 ## Publications
 
 - **Control Methods for Mitigating Critical Cloud Computing Issues in Banking Organizations: A review**
-- <br>
-  A Elzamly, N Messabia, **H ELbaz**, Y Yang, A Shibghatullah
-- <br>
-  The Journal of Natural Sciences- Alaqsa university, 2022
+   <br>
+  A Elzamly, N Messabia, **H Elbaz**, Y Yang, A Shibghatullah
   <br>
-  [[PFD](https://journals.alaqsa.edu.ps/index.php/sciences/article/download/118/27)]
+Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 Jan.2022 ISSN 2070-3155
+  <br> 
+[[PDF] (https://journals.alaqsa.edu.ps/index.php/sciences/article/download/118/27)]
+
 - **S.O.S. Booklet for Global Young Scholars: Facing the Scientific and Ethical Challenges of the Modern Age**
 <br>
 Gjoneska, B., Camacho Toro, R., Simic, N., Solymosi, K., AbuDouleh, A., Chies Santos, A., Chaouch, M., **Elbaz, H.**, Enany, S., Giannarou, S., Gono-Bwalya, A., Haidu, D., Manzanares Chac´on, M. A., Reˇzek Jambrak, A.
