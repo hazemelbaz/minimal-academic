@@ -167,7 +167,7 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
 
 - **Science Leadership Workshop at the World Science Forum**
   <br>
-  Global Young Academy · Seasonal Sep 2019 · 1 mo, Budapest, HungaryBudapest, Hungary
+  Global Young Academy · Seasonal Sep 2019 · 1 mo,Budapest, Hungary.[Press](https://palast.ps/en/news/al-aqsa-university-represents-academy-world-science-forum-and-iap-global-young-academy)
   <br>
   The Digital Age is already upon us and we require a lot more tangible action to appropriately position ourselves for the future. We all have a role to play when it comes to ensuring responsible education. This much is true. It is also important that our learning environments always remain supportive, personalised, and fit-for-purpose, in order to maintain their overall relevance and value.
 
