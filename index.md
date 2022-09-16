@@ -67,7 +67,7 @@ JANUARY 24-25, 2021
 - <br>
   A Elzamly, N Messabia, **H ELbaz**, Y Yang, A Shibghatullah
 - <br>
-  The Journal of Natural Sciences- Alaqsa university, Jan 2022
+  The Journal of Natural Sciences- Alaqsa university, 2022
   <br>
   [[PFD](https://journals.alaqsa.edu.ps/index.php/sciences/article/download/118/27)]
 - **S.O.S. Booklet for Global Young Scholars: Facing the Scientific and Ethical Challenges of the Modern Age**
