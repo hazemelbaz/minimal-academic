@@ -119,7 +119,6 @@ Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
   Under the patronage of His Excellency, the President of Palestine Academy for Science and Technology Prof. Dr. Marwan Awartani. Organized by PALAST.
   <br>
   [February 26, 2022] Ramallah
-
 - **“Cyber Attacks and its impact on Palestinian institutions” Symposium**
   <br>
   The Academy of Management and Politics for Postgraduate Studies- Gaza
