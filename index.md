@@ -72,20 +72,20 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
 [[PDF](https://journals.alaqsa.edu.ps/index.php/sciences/article/download/118/27)]
 
 - **S.O.S. Booklet for Global Young Scholars: Facing the Scientific and Ethical Challenges of the Modern Age**
-<br>
-Gjoneska, B., Camacho Toro, R., Simic, N., Solymosi, K., AbuDouleh, A., Chies Santos, A., Chaouch, M., **Elbaz, H.**, Enany, S., Giannarou, S., Gono-Bwalya, A., Haidu, D., Manzanares Chac´on, M. A., Reˇzek Jambrak, A.
-<br>
-Budapest: GYA/IAP Young Researchers Leadership Workshop in the Framework of the **World Science Forum 2019**
+  <br>
+  Gjoneska, B., Camacho Toro, R., Simic, N., Solymosi, K., AbuDouleh, A., Chies Santos, A., Chaouch, M., **Elbaz, H.**, Enany, S., Giannarou, S., Gono-Bwalya,     A., Haidu, D., Manzanares Chac´on, M. A., Reˇzek Jambrak, A.
+  <br>
+  Budapest: GYA/IAP Young Researchers Leadership Workshop in the Framework of the **World Science Forum 2019**
   <br> 
-[[PDF]( https://globalyoungacademy.net/wp-content/uploads/2019/11/IAP-and-GYA-SOS-Booklet-for-Global-Young-Scholars-Gjoneska-et-al-2020.pdf)]
+  [[PDF]( https://globalyoungacademy.net/wp-content/uploads/2019/11/IAP-and-GYA-SOS-Booklet-for-Global-Young-Scholars-Gjoneska-et-al-2020.pdf)]
 
 - **Critical Cloud Computing Risks for Banking Organizations: Issues and Challenges**
   <br>
   A Elzamly, N Messabia, M Doheir, S Abu Naser, **HA Elbaz**
   <br>
-Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
+  Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
   <br> 
-[[PDF](https://www.researchgate.net/publication/336368795_Critical_Cloud_Computing_Risks_for_Banking_Organizations_Issues_and_Challenges)]
+  [[PDF](https://www.researchgate.net/publication/336368795_Critical_Cloud_Computing_Risks_for_Banking_Organizations_Issues_and_Challenges)]
 
 - **Analysis and Verification of a Key Agreement Protocol over Cloud Computing Using Scyther Tool**
   <br>
