@@ -43,6 +43,7 @@ JANUARY 24-25, 2021
 - Reviewer in journals: [ICITB](https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&journal_id=3545518&Network=no&lim=false&orderBy=ab_approval_date&orderDir=asc&strSelectedOption=5&fbclid=IwAR1HyEynmD8Lh6pWF4OWvOJfPINpTZdGgqu8dbrbfFY-KE7kqRYEBdWBf-U), and [POLLACK PERIODICA](https://submit.akademiai.com/pollack/index.php/pollack).
 
 ## Activities and News
+- **[Oct 2022]** Speaker at the 7th National Forum [Innovation & Future Skills](/assets/PDF/invitation.pdf) Under the Auspices and Presence HE President Mahmoud Abbas The Higher Council For Innovation And Excellence. I talked about [EXPLORING THE FUNCTIONS OF THE FUTURE IN LINE WITH THE GOALS OF SUSTAINABLE  DEVELOPMEN](/assets/PDF/Agenda.pdf) in the first session titeled [The Future of Jobs and Work Skills for Achieving Sustainable Development Goals](/assets/PDF/Agenda.pdf).
 - **[Jun 2022]** Attending a weeklong program [EHE - Enhancing Higher Education](https://www.kth.se/en/itm/nyheter/ehe-enhancing-higher-education-1.1176512) Organized by The Department of Learning in Engineering sciences in collaboration with the International Relations Office at [KTH University](https://www.kth.se/en/om/kontakt/campus/kth-campus-1.640118)- Stockholm- Sweden.
 - **[Feb 2022]** Speaker at [The Indian National Science Day-2022 meeting and the Launching of the Palestinian Research Hub](/assets/img/invitation%20The%20indian%20National%20Day%202022.jpeg), as [representative of PYA](/assets/img/Indian%20National%20Science%20Day%202022-%20Agenda.jpeg). Under the patronage of His Excellency, the President of Palestine Academy for Science and Technology Prof. Dr. Marwan Awartani. Organized by [PALAST](http://palast.ps/en/events/indian-national-science-day-2022-conference-and-launch-palestinian-research-hub-initiative)
 - **[Nov 2021]** Attending [MIL National Conference - UNESCO "Media and Information Literacy as Public Good"](https://en.unesco.org/news/media-information-literacy-public-good-national-conference-palestine) Organized by The UNESCO Office in Palestine, in partnership with the Ministry of Education and the Ministry of Higher Education.
@@ -115,6 +116,11 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
 
 ## Selected Talks
 
+- **the 7th National Forum [Innovation & Future Skills]**
+  <br>
+  Under the Auspices and Presence HE President Mahmoud Abbas The Higher Council For Innovation And Excellence.
+  <br>
+  [October 25,26 2022] Ramallah 
 - **"The National Science Day-2022 meeting and the Launching of the Palestinian Research Hub"**
   <br>
   Under the patronage of His Excellency, the President of Palestine Academy for Science and Technology Prof. Dr. Marwan Awartani. Organized by PALAST.
