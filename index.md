@@ -170,9 +170,7 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
   Module 3 - Planning an Incubator
   <br>
   Module 4- Marketing and Stakeholder Management
-  
   Organized by the Higher Council for Innovation &Excellence in Gaza, Palestine, on November 14 & 15, 2022.
-  <br>
 - **Introductory seminars by publishing in international indexing rules.[PDF](/assets/PDF/1041.pdf)**
   <br>
   Online Training, Dec 2021.
