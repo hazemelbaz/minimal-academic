@@ -14,14 +14,14 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 
 - **Computer Security:** Cryptography, Authentication, Privacy, Data security, Network security, Cryptanalysis
 - **Cloud Computing:** Cloud security, AWS security, Cloud Management
-- **Cyber Security:** Penetration testing, Ethical hacking, Incidence response, Vulnerability assessment, IoT security 
+- **Cyber Security:** Penetration testing, Ethical hacking, Incidence response, Vulnerability assessment, IoT security
 - **DevOps:** Agile, Docker, Kubernetes, Ansible, Continuous integrity, Continuous delivery, Microservices
 
 ## Experiences
 
 - **[Dec 2018 - Present]** Assistant Vice President of Scientific Research, Al-Aqsa University
 - **[Sep 2018 - Dec 2018]** Head of Networks and Mobiles Department, Faculty of Computers and information Technology, Al-aqsa Uviversity
-- **[Jan 2016 – Jan 2017]**	Assistant Prof. in Information Security Engineering Department, University College of Applied Sciences (UCAS) – Gaza (Part Time).
+- **[Jan 2016 – Jan 2017]** Assistant Prof. in Information Security Engineering Department, University College of Applied Sciences (UCAS) – Gaza (Part Time).
 - **[May 2015 - Present]** Assistan Prof. at  Faculty of Computers and information Technology, Al-aqsa Uviversity
 - **[May 2004 - Apr 2015]** Lecturer at Computer Science Department, Al-Aqsa University
 
@@ -30,8 +30,8 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 - Technical Program Committee in [(ICCSI) Confernce.](http://pcis.palast.ps/committees/) Organized by the PALESTINIAN COMMUNICATIONS AND INFORMATICS SOCIETY [(PCIS)](http://pcis.palast.ps)
 - Organizing Committee Member in Third Palestinian International Conference on Information and Communication Technology [(PICICT 2021)](http://picict.ps) [PDF](./assets/PDF/picict-program-2021.pdf)
 - Co-founder: [The Palestinian Communications and Informatics Society (PCIS)](http://palast.ps/en/what-we-do/science-societies/ICT)
-- Program Committee Member in THE INTERNATIONAL VIRTUAL CONFERENCE ON DIGITAL LEARNING AND TEACHING DURING CRISIS [ IVCDLTC2021 ](http://eesig.org/conf/index.html)
-المؤتمر الدولي الافتراضي للتعلم والتعليم الرقمي في الأزمات 
+- Program Committee Member in THE INTERNATIONAL VIRTUAL CONFERENCE ON DIGITAL LEARNING AND TEACHING DURING CRISIS [IVCDLTC2021](http://eesig.org/conf/index.html)
+المؤتمر الدولي الافتراضي للتعلم والتعليم الرقمي في الأزمات
 JANUARY 24-25, 2021
 - Program Committee Member in International Conference on Promising Electronic Technologies [ICPET 2020](http://icpet.net/committees/)
 - Scientific committee Member in The 1st International Conference on Information Technology and Business [ICITB 2020](http://icitb.gu.edu.ps)
@@ -43,6 +43,7 @@ JANUARY 24-25, 2021
 - Reviewer in journals: [ICITB](https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&journal_id=3545518&Network=no&lim=false&orderBy=ab_approval_date&orderDir=asc&strSelectedOption=5&fbclid=IwAR1HyEynmD8Lh6pWF4OWvOJfPINpTZdGgqu8dbrbfFY-KE7kqRYEBdWBf-U), and [POLLACK PERIODICA](https://submit.akademiai.com/pollack/index.php/pollack).
 
 ## Activities and News
+
 - **[Oct 2022]** Participation in the Global Business Incubation Management Training Program via Innovation Supporters Network (ISN). Organized by the Higher Council for Innovation & Excellence in Gaza, Palestine, on November 14 & 15, 2022.[(PDF)](/assets/PDF/BINCERT.pdf)
 - **[Oct 2022]** Speaker at the 7th National Forum [Innovation & Future Skills](/assets/PDF/invitation.pdf) Under the Auspices and Presence HE President Mahmoud Abbas The Higher Council For Innovation And Excellence. I talked about [EXPLORING THE FUNCTIONS OF THE FUTURE IN LINE WITH THE GOALS OF SUSTAINABLE  DEVELOPMEN](/assets/PDF/Agenda.pdf) in the first session titeled [The Future of Jobs and Work Skills for Achieving Sustainable Development Goals](/assets/PDF/Agenda.pdf).
 - **[Jun 2022]** Attending a weeklong program [EHE - Enhancing Higher Education](https://www.kth.se/en/itm/nyheter/ehe-enhancing-higher-education-1.1176512) Organized by The Department of Learning in Engineering sciences in collaboration with the International Relations Office at [KTH University](https://www.kth.se/en/om/kontakt/campus/kth-campus-1.640118)- Stockholm- Sweden.
@@ -51,7 +52,7 @@ JANUARY 24-25, 2021
 - **[Oct 2021]** Participated on the Workshop: [Classification of Palestinian Universities in International and Arab Rankings - Reality and Challenges.](http://www.aqac.mohe.gov.ps/news?p=articles&news=5681&title=-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%B3%D8%A8%D9%84-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D8%A7%D9%81%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9.aspx) Organized By [National Authority for Accreditation and Quality](http://www.aqac.mohe.gov.ps/)
 - **[Sep 2021]** Participated on the [2021 Online Young Academics Meeting](https://globalyoungacademy.net/largest-ever-online-meeting-of-young-academies/). Organized by [GYA](https://globalyoungacademy.net) (Global Young Academy).
 - **[Sep 2021]** Participated as Chair of Session 6: Security and Soft Engineering at Third Palestinian International Conference on Information and Communication Technology [(PICICT 2021)](http://picict.ps) [PDF](./assets/PDF/picict-program-2021.pdf)
-- **[Apr 2021]** Participated as [Rapporteur of the 3rd session](/assets/img/02.png) of The [Palestinain Ecducational Symposium on: "Prespective Towards Sustainability of E-learning in Palestine"](./assets/img/01.png) organized by [Palestinian Ministry of Education.](http://www.moehe.gov.ps/)[ (PDF)](./assets/PDF/The-Palestinain-Ecducational-Symposium-April-2021.pdf)
+- **[Apr 2021]** Participated as [Rapporteur of the 3rd session](/assets/img/02.png) of The [Palestinain Ecducational Symposium on: "Prespective Towards Sustainability of E-learning in Palestine"](./assets/img/01.png) organized by [Palestinian Ministry of Education.](http://www.moehe.gov.ps/)[(PDF)](./assets/PDF/The-Palestinain-Ecducational-Symposium-April-2021.pdf)
 - **[Mar 2021]** Participated in [YSN-ASM INTERNATIONAL SCIENTIFIC VIRTUAL CONFERENCE (ISVC) 2021](https://ysn-asm.org.my/web/isvc2021/) organized by [Academy of Sciences Malaysia](https://www.akademisains.gov.my/)[(PDF)](./assets/PDF/E-certs-ISVC-Participants-50.pdf)
 - **[Jan 2021]** Attended [The Arab Impact Fpts and Implementation Mechanisms](/assets/img/ArabImpactFactor.jpg) workshop. Organized by [Committee for Accreditation and Quality Assurance of Refereed Scientific Journals](https://www.facebook.com/%D9%84%D8%AC%D9%86%D8%A9-%D8%A5%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D9%88%D8%B6%D9%85%D8%A7%D9%86-%D8%AC%D9%88%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-116126470298634/) and [The Arab Impact Factor.](https://www.arabimpactfactor.com/pages/aboutus.php)
 - **[Dec 2020]** Participated in the online training ‘Facilitating Online Meetings and Workshops’ on 5 December 2020. Organized by The Arab-German Young Academy of Sciences and Humanities (AGYA). [(PDF)](./assets/PDF/2020-AGYA-Certificate.pdf)
@@ -60,7 +61,7 @@ JANUARY 24-25, 2021
 - **[Sep 2020]** Participated on [Online Young Academies Meeting 2020](https://globalyoungacademy.net/first-ever-online-worldwide-young-academies-meeting/) Organized by the Global Young Academy [(GYA)](https://globalyoungacademy.net/gya-in-brief/)
 - **[Jul 2020]** Participation in  [Research to Innovation lab R2I lab](https://www.thenextsociety.co/research-innovation-lab) Training Workshop, organized by [ANIMA](https://anima.coop/en/) and [HCIE](http://hcie.ps/?lang=en).
 - **[Jun 2020]** Attended in a workshop online for [The publishing landscape in the Arab World](http://aaru.edu.jo/Lists/NewsandEvents/Disp_Form.aspx?ID=616), organized by [Elsevier](https://www.elsevier.com/en-xm) and [Association of Arab Universities](http://aaru.edu.jo/en/english/Home.aspx). [[PDF]](./assets/PDF/publishing-landscape-arab-world-certificate.pdf)
-- **[May 2020]** Attended a workshop on strategies for obtaining funding for research projects. Sohag University-Egypt. 
+- **[May 2020]** Attended a workshop on strategies for obtaining funding for research projects. Sohag University-Egypt.
 - **[Jan 2020]** Participation in a workshop on the Palestinian-Turkish joint appeal for research grants between the Supreme Council for Creativity and Excellence (HCIE) and the Turkish Technology and Scientific Research Council [(TUBITAK).](https://hcie.ps/?p=1805)
 - **[Dec 2019]** Attended workshop of quality of tertiary education and the labor market, [Al Fakhoora House](https://www.ps.undp.org/content/papp/en/home/projects/al-fakhoora-dynamic-futures-programme--df-.html)
   
@@ -71,7 +72,7 @@ JANUARY 24-25, 2021
   A Elzamly, N Messabia, **H Elbaz**, Y Yang, A Shibghatullah
   <br>
 Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 Jan.2022 ISSN 2070-3155
-  <br> 
+  <br>
 [[PDF](https://journals.alaqsa.edu.ps/index.php/sciences/article/download/118/27)]
 
 - **S.O.S. Booklet for Global Young Scholars: Facing the Scientific and Ethical Challenges of the Modern Age**
@@ -79,7 +80,7 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
   Gjoneska, B., Camacho Toro, R., Simic, N., Solymosi, K., AbuDouleh, A., Chies Santos, A., Chaouch, M., **Elbaz, H.**, Enany, S., Giannarou, S., Gono-Bwalya,     A., Haidu, D., Manzanares Chac´on, M. A., Reˇzek Jambrak, A.
   <br>
   Budapest: GYA/IAP Young Researchers Leadership Workshop in the Framework of the **World Science Forum 2019**
-  <br> 
+  <br>
   [[PDF]( https://globalyoungacademy.net/wp-content/uploads/2019/11/IAP-and-GYA-SOS-Booklet-for-Global-Young-Scholars-Gjoneska-et-al-2020.pdf)]
 
 - **Critical Cloud Computing Risks for Banking Organizations: Issues and Challenges**
@@ -87,7 +88,7 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
   A Elzamly, N Messabia, M Doheir, S Abu Naser, **HA Elbaz**
   <br>
   Religación. Revista de Ciencias Sociales y Humanidades **4 (18), 673-682**
-  <br> 
+  <br>
   [[PDF](https://www.researchgate.net/publication/336368795_Critical_Cloud_Computing_Risks_for_Banking_Organizations_Issues_and_Challenges)]
 
 - **Analysis and Verification of a Key Agreement Protocol over Cloud Computing Using Scyther Tool**
@@ -95,7 +96,7 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
   **Elbaz, Hazem A.**, Mohammed H. Abd-elaziz, and Taymoor Nazmy
   <br>
   International Journal of Cloud Computing and Services Science **(IJ-CLOSER) 3.6 (2015).**
-  <br> 
+  <br>
   [[PDF]( http://www.publishingindia.com/GetBrochure.aspx?query=UERGQnJvY2h1cmVzfC8yNTU4LnBkZnwvMjU1OC5wZGY=)]
 
 - **A Secure Electronic Student Record using Hierarchal Identity-based Authentication over University Cloud Storage**
@@ -105,7 +106,6 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
   International Journal of Emerging Trends in Engineering and Development **Issue 4, Vol.6 (Oct. -Nov. 2014)**
   <br> [[PDF](https://pdfs.semanticscholar.org/490c/dbb9c64fab4de52b29aa633fe8b5dd8a24b0.pdf?_ga=2.57126058.1044210318.1601921424-666306931.1601921424)]
 
-
 - **Trusting Identity Based Authentication on Hybrid Cloud Computing**
   <br>
   **Elbaz, Hazem A.**, Mohammed H. Abd-elaziz, and Taymoor Nazmy
@@ -114,14 +114,13 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
   <br>
   [[PDF]( https://link.springer.com/chapter/10.1007/978-3-319-05506-0_17)]
 
-
 ## Selected Talks
 
 - **the 7th National Forum [Innovation & Future Skills]**
   <br>
   Under the Auspices and Presence HE President Mahmoud Abbas The Higher Council For Innovation And Excellence.
   <br>
-  [October 25,26 2022] Ramallah 
+  [October 25,26 2022] Ramallah
 - **"The National Science Day-2022 meeting and the Launching of the Palestinian Research Hub"**
   <br>
   Under the patronage of His Excellency, the President of Palestine Academy for Science and Technology Prof. Dr. Marwan Awartani. Organized by PALAST.
@@ -158,7 +157,22 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
   <br>
   [October 23 2016]
 
-## Training Courses   
+## Training Courses
+
+- **Global Business Incubation Management Training Program. [PDF](assets/PDF/BINCERT.pdf)**
+  <br>
+  Hazem A.Elbaz has completed the infoDev training program modules:
+  <br>
+  Module 1- Business Incubation Definitions and Principles
+  <br>
+  Module 2 - Business Incubator Models, Including Success Factors
+  <br>
+  Module 3 - Planning an Incubator
+  <br>
+  Module 4- Marketing and Stakeholder Management
+  
+  Organized by the Higher Council for Innovation &Excellence in Gaza, Palestine, on November 14 & 15, 2022.
+  <br>
 - **Introductory seminars by publishing in international indexing rules.[PDF](/assets/PDF/1041.pdf)**
   <br>
   Online Training, Dec 2021.
@@ -176,7 +190,7 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
   Global Young Academy · Seasonal Sep 2019 · 1 mo,Budapest, Hungary.[Press](https://palast.ps/en/news/al-aqsa-university-represents-academy-world-science-forum-and-iap-global-young-academy)
   <br>
   The Digital Age is already upon us and we require a lot more tangible action to appropriately position ourselves for the future. We all have a role to play when it comes to ensuring responsible education. This much is true. It is also important that our learning environments always remain supportive, personalised, and fit-for-purpose, in order to maintain their overall relevance and value.
-  This session entailed a series of insightful talks and presentations, an engaging workshop, and a networking session, at the end we documented and published a booklet [[PDF]( https://globalyoungacademy.net/wp-content/uploads/2019/11/IAP-and-GYA-SOS-Booklet-for-Global-Young-Scholars-Gjoneska-et-al-2020.pdf)] about our experience. 
+  This session entailed a series of insightful talks and presentations, an engaging workshop, and a networking session, at the end we documented and published a booklet [[PDF]( https://globalyoungacademy.net/wp-content/uploads/2019/11/IAP-and-GYA-SOS-Booklet-for-Global-Young-Scholars-Gjoneska-et-al-2020.pdf)] about our experience.
   It was the first time for me to be part of "just met" group, we all started working together to share our knowledge using our's booklet. I left with a total new mindset about group working and leadership.
 - **Entrepreneurship in IT sector**.
   <br>
@@ -187,7 +201,7 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
   HTWK, Germany, 2018.
   <br>
 - **Curricula development, the concept of IT economy, incubation, and entrepreneurship**.
-  <br> 
+  <br>
   HTWK, Germany, 2017.
   <br>
 - **TOT Freelancing Program , Gaza, Palestine, 2018. The entrepreneurship in IT, Incubation, and acceleration processes**.
@@ -197,19 +211,22 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
 - **Project Management Professional PMP**.
   <br>
   Gaza, Palestine, 2016.
-  <br> 
+  <br>
 
 ## Projects
+
 - **MS@CPS Erasmus+ <br>[Feb 2019 - present].**<br>
   - The International Master of Science on Cyber Physical Systems (MS@CPS) provides a specialized and unified view of the industry-oriented research field, aiming to prepare the students to be highly skilled analyser, designers and developers of both the software and hardware aspects for various industry related systems and applications in the context of CPS. By enrolling in this program, the students will interact with people from several distinct countries, with diverse cultural backgrounds to promote globalization and technological development based on students’ choices and expectations.
 
 [See project MS@CPS Erasmus+.](https://blogs.uni-siegen.de/ms-cps/)
-- **BITPAL Erasmus+ <br>[Oct 2016 – Nov 2019].**<br> 
+
+- **BITPAL Erasmus+ <br>[Oct 2016 – Nov 2019].**<br>
   - The project (BITPAL) aims to adopt innovative orientation in teaching that enhance the thinking of the undergraduate students.
   The target of BITPAL is to develop the curricula of IT programs in Palestinian academic sector for adopting new innovative teaching methodologies developed during the project. This will help IT students to become more reliable and productive, and will improve their ability for learning-to-learn. Consequently, IT students will be able to start their own businesses and open several opportunities for them in an early stage before the graduation and in their careers after graduation.
 
 [See project BITPAL Erasmus+.](https://www.linkedin.com/company/bitpal/)
-- **TOT Freelancing Program - South Tech Hub <br>[Aug 2018 – Sep 2018].**<br> 
-  - The Freelance Academy is comprised of multiple tracks for different cohorts of participants. 10-week freelancing mentorship program: This track is for young people skilled in areas such as web development, graphic design, translation, social media, mobile development and front-end development to become successful online freelancers through intensive mentorship sessions in topics such as building a competitive online freelancing profile, social media marketing, and professional English. During the 10 weeks, participants gather for networking and experience-sharing in addition to workshops on trending topics in the field of online freelancing. 
+
+- **TOT Freelancing Program - South Tech Hub <br>[Aug 2018 – Sep 2018].**<br>
+  - The Freelance Academy is comprised of multiple tracks for different cohorts of participants. 10-week freelancing mentorship program: This track is for young people skilled in areas such as web development, graphic design, translation, social media, mobile development and front-end development to become successful online freelancers through intensive mentorship sessions in topics such as building a competitive online freelancing profile, social media marketing, and professional English. During the 10 weeks, participants gather for networking and experience-sharing in addition to workshops on trending topics in the field of online freelancing.
 
 [See project TOT Freelancing Program - South Tech Hub.](https://gazaskygeeks.com/freelance/)
