@@ -65,6 +65,21 @@ JANUARY 24-25, 2021
 - **[Jan 2020]** Participation in a workshop on the Palestinian-Turkish joint appeal for research grants between the Supreme Council for Creativity and Excellence (HCIE) and the Turkish Technology and Scientific Research Council [(TUBITAK).](https://hcie.ps/?p=1805)
 - **[Dec 2019]** Attended workshop of quality of tertiary education and the labor market, [Al Fakhoora House](https://www.ps.undp.org/content/papp/en/home/projects/al-fakhoora-dynamic-futures-programme--df-.html)
   
+## Courses taught at the university
+- Computer Network
+- C++ programming language 
+- Database systems 
+- Systems analysis 
+- Cloud computing 
+- Scientific Research methodologies 
+- Computer Networks Security 
+- Ethical hacking
+- Emergency and Incident Response 
+- Python for security 
+- Cloud computing security 
+- Cybersecurity and Penetration testing 
+- Introduction to blockchain
+
 ## Publications
 
 - **Control Methods for Mitigating Critical Cloud Computing Issues in Banking Organizations: A review**
@@ -210,6 +225,12 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
   <br>
   Gaza, Palestine, 2016.
   <br>
+
+## Licenses & certifications
+- **Blockchain and Smart Contracts Security**<br>
+Linkedin Learning<br>
+Issued Feb 2024<br>
+Credential ID [e21f01ffda022773a53e9b9bc5d1956faad363cfad140c63b71f8488e3b4b579](https://www.linkedin.com/learning/certificates/e21f01ffda022773a53e9b9bc5d1956faad363cfad140c63b71f8488e3b4b579?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BVBh0IxTvSEqpD75%2FOeLYiA%3D%3D)
 
 ## Projects
 
