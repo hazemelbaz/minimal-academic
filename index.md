@@ -65,8 +65,8 @@ JANUARY 24-25, 2021
 - **[Jan 2020]** Participation in a workshop on the Palestinian-Turkish joint appeal for research grants between the Supreme Council for Creativity and Excellence (HCIE) and the Turkish Technology and Scientific Research Council [(TUBITAK).](https://hcie.ps/?p=1805)
 - **[Dec 2019]** Attended workshop of quality of tertiary education and the labor market, [Al Fakhoora House](https://www.ps.undp.org/content/papp/en/home/projects/al-fakhoora-dynamic-futures-programme--df-.html)
   
-## Courses taught at the university
-- Computer Network
+## Courses Taught at the University
+- Computer Networks
 - C++ programming language 
 - Database systems 
 - Systems analysis 
