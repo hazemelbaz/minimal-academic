@@ -40,7 +40,7 @@ JANUARY 24-25, 2021
 - Co-founder: [Shield CyberSecurity Solutions](https://shieldcs.com)
 - Information Security for E-Learning Coordinator at [خبراء من أجل التعليم- Experts For Education](https://www.facebook.com/groups/SpecialInterestGroupOnEduactaion/)
 - Reviewer in conferences: [PICICT 2021](http://www.picict.ps/#content-inner-12),[ICPET 2020](https://icpet.net), [ICITB 2020](http://gu.edu.ps/en/Page.aspx?ID=44), [ICPET 2018](https://icpet.net/icpet-2018/) and [PICICT 2017](http://fit.iugaza.edu.ps/Portals/115/PICICT2017/html/picict2017_contact_us.html).
-- Reviewer in journals: [Journal of Internet Services and Applications](https://journals-sol.sbc.org.br/index.php/jisa/index).[ICITB](https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&journal_id=3545518&Network=no&lim=false&orderBy=ab_approval_date&orderDir=asc&strSelectedOption=5&fbclid=IwAR1HyEynmD8Lh6pWF4OWvOJfPINpTZdGgqu8dbrbfFY-KE7kqRYEBdWBf-U), and [POLLACK PERIODICA](https://submit.akademiai.com/pollack/index.php/pollack).
+- Reviewer in journals: [Journal of Internet Services and Applications](https://journals-sol.sbc.org.br/index.php/jisa/index), [ICITB](https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalbrowse&journal_id=3545518&Network=no&lim=false&orderBy=ab_approval_date&orderDir=asc&strSelectedOption=5&fbclid=IwAR1HyEynmD8Lh6pWF4OWvOJfPINpTZdGgqu8dbrbfFY-KE7kqRYEBdWBf-U), and [POLLACK PERIODICA](https://submit.akademiai.com/pollack/index.php/pollack).
 
 ## Activities and News
 
