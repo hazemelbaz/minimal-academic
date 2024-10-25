@@ -227,6 +227,11 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
   <br>
 
 ## Licenses & certifications
+- **Cybersecurity leadership - Information security governance (ISG)**<br>
+INFOSEC<br>
+Issued Oct 2024<br>
+CERTIFICATE ID: VZBNLV-COURSE-661013 (/assets/PDF/Cybersecurity-leadership-(ISG)-CERT)<br>
+
 - **Blockchain and Smart Contracts Security**<br>
 Linkedin Learning<br>
 Issued Feb 2024<br>
