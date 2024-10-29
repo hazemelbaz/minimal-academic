@@ -256,4 +256,6 @@ Credential ID [e21f01ffda022773a53e9b9bc5d1956faad363cfad140c63b71f8488e3b4b579]
 [See project BITPAL Erasmus+.](https://www.linkedin.com/company/bitpal/)
 
 - **TOT Freelancing Program - South Tech Hub <br>[Aug 2018 – Sep 2018].**<br>
-  - The Freelance Academy is comprised of multiple tracks for different cohorts of participants. 10-week freelancing mentorship program: This track is for young people skilled in areas such as web development, graphic design, translation, social media, mobile development and front-end development to become successful online freelancers through intensive mentorship sessions in topics such as building a competitive online freelancing profile, soci
+  - The Freelance Academy is comprised of multiple tracks for different cohorts of participants. 10-week freelancing mentorship program: This track is for young people skilled in areas such as web development, graphic design, translation, social media, mobile development and front-end development to become successful online freelancers through intensive mentorship sessions in topics such as building a competitive online freelancing profile, social media marketing, and professional English. During the 10 weeks, participants gather for networking and experience-sharing in addition to workshops on trending topics in the field of online freelancing.
+
+[See project TOT Freelancing Program - South Tech Hub.](https://gazaskygeeks.com/freelance/)
