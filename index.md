@@ -227,7 +227,12 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
   <br>
 
 ## Licenses & certifications
-- **[Cybersecurity leadership - Information security governance (ISG)](https://www.infosecinstitute.com/skills/learning-paths/cybersecurity-leadership-and-management/)**<br>
+- **[Cybersecurity senior management and information security governance (ISG)](https://app.infosecinstitute.com/portal/skills/content/asset/17055?content_tree=17055)**<br>
+INFOSEC<br>
+Issued Oct 2024<br>
+CERTIFICATE ID: [VZBNLV-COURSE-663935](/assets/PDF/Cybersecurity-senior%20.pdf)<br>
+
+- **[Cybersecurity leadership - Information security governance (ISG) overview](https://www.infosecinstitute.com/skills/learning-paths/cybersecurity-leadership-and-management/)**<br>
 INFOSEC<br>
 Issued Oct 2024<br>
 CERTIFICATE ID: [VZBNLV-COURSE-661013](/assets/PDF/Cybersecurity-leadership.pdf)<br>
@@ -251,6 +256,4 @@ Credential ID [e21f01ffda022773a53e9b9bc5d1956faad363cfad140c63b71f8488e3b4b579]
 [See project BITPAL Erasmus+.](https://www.linkedin.com/company/bitpal/)
 
 - **TOT Freelancing Program - South Tech Hub <br>[Aug 2018 – Sep 2018].**<br>
-  - The Freelance Academy is comprised of multiple tracks for different cohorts of participants. 10-week freelancing mentorship program: This track is for young people skilled in areas such as web development, graphic design, translation, social media, mobile development and front-end development to become successful online freelancers through intensive mentorship sessions in topics such as building a competitive online freelancing profile, social media marketing, and professional English. During the 10 weeks, participants gather for networking and experience-sharing in addition to workshops on trending topics in the field of online freelancing.
-
-[See project TOT Freelancing Program - South Tech Hub.](https://gazaskygeeks.com/freelance/)
+  - The Freelance Academy is comprised of multiple tracks for different cohorts of participants. 10-week freelancing mentorship program: This track is for young people skilled in areas such as web development, graphic design, translation, social media, mobile development and front-end development to become successful online freelancers through intensive mentorship sessions in topics such as building a competitive online freelancing profile, soci
