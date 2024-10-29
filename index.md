@@ -227,7 +227,7 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
   <br>
 
 ## Licenses & certifications
-- **[Cybersecurity senior management and information security governance (ISG)](https://app.infosecinstitute.com/portal/skills/content/asset/17055?content_tree=17055)**<br>
+- **[Cybersecurity senior management and information security governance (ISG)](https://www.infosecinstitute.com/skills/learning-paths/cybersecurity-leadership-and-management/)**<br>
 INFOSEC<br>
 Issued Oct 2024<br>
 CERTIFICATE ID: [VZBNLV-COURSE-663935](/assets/PDF/Cybersecurity-senior%20.pdf)<br>
