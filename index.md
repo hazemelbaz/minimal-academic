@@ -244,7 +244,7 @@ Credential ID [e21f01ffda022773a53e9b9bc5d1956faad363cfad140c63b71f8488e3b4b579]
 
 ## Projects
 
-- **MS@CPS Erasmus+ <br>[Feb 2019 - present].**<br>
+- **MS@CPS Erasmus+ <br>[Feb 2019 - Sep 2021].**<br>
   - The International Master of Science on Cyber Physical Systems (MS@CPS) provides a specialized and unified view of the industry-oriented research field, aiming to prepare the students to be highly skilled analyser, designers and developers of both the software and hardware aspects for various industry related systems and applications in the context of CPS. By enrolling in this program, the students will interact with people from several distinct countries, with diverse cultural backgrounds to promote globalization and technological development based on students’ choices and expectations.
 
 [See project MS@CPS Erasmus+.](https://blogs.uni-siegen.de/ms-cps/)
